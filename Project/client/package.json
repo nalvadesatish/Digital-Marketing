@@ -1,8 +1,6 @@
 {
-  "homepage": "https:/nalvadesatish/.github.io/Digital-Marketing",
   "name": "my-website",
   "version": "0.1.0",
-  "proxy": "http://localhost:9002/submit",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -14,13 +12,11 @@
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0",
     "react-router-dom": "^6.17.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "url": "^0.11.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,10 +41,12 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "concurrently": "^8.2.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "html-webpack-plugin": "^5.5.3",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "presets": "@babel/preset-react"
   },
   "peerDependencies": {
     "react": ">=16.8.0",

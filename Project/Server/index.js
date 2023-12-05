@@ -1,9 +1,19 @@
 import express from "express";
 import cors from "cors";
 import mongoose from "mongoose";
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+import path from "path";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 const PORT = 9002;
 
 const app = express();
+
+
+app.use(express.static(path.join(__dirname, 'public'), { 'Content-Type': 'text/css' }));
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
