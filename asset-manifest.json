@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nalvadesatish/.github.io/Digital-Marketing/static/css/main.d56be0df.css",
-    "main.js": "/nalvadesatish/.github.io/Digital-Marketing/static/js/main.91cdd4c2.js",
+    "main.js": "/nalvadesatish/.github.io/Digital-Marketing/static/js/main.e6e5a6c8.js",
     "static/js/787.61f74e33.chunk.js": "/nalvadesatish/.github.io/Digital-Marketing/static/js/787.61f74e33.chunk.js",
     "static/media/ecom.jpg": "/nalvadesatish/.github.io/Digital-Marketing/static/media/ecom.b2eac6ec78492a60054f.jpg",
     "static/media/email-marketing.png": "/nalvadesatish/.github.io/Digital-Marketing/static/media/email-marketing.08332fa47caef14832af.png",
@@ -14,11 +14,11 @@
     "static/media/imgs2.png": "/nalvadesatish/.github.io/Digital-Marketing/static/media/imgs2.c55410e5fc28ad337254.png",
     "index.html": "/nalvadesatish/.github.io/Digital-Marketing/index.html",
     "main.d56be0df.css.map": "/nalvadesatish/.github.io/Digital-Marketing/static/css/main.d56be0df.css.map",
-    "main.91cdd4c2.js.map": "/nalvadesatish/.github.io/Digital-Marketing/static/js/main.91cdd4c2.js.map",
+    "main.e6e5a6c8.js.map": "/nalvadesatish/.github.io/Digital-Marketing/static/js/main.e6e5a6c8.js.map",
     "787.61f74e33.chunk.js.map": "/nalvadesatish/.github.io/Digital-Marketing/static/js/787.61f74e33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d56be0df.css",
-    "static/js/main.91cdd4c2.js"
+    "static/js/main.e6e5a6c8.js"
   ]
 }
