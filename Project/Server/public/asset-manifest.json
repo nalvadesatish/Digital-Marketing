@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d56be0df.css",
+    "main.js": "/static/js/main.b08523bc.js",
+    "static/js/787.61f74e33.chunk.js": "/static/js/787.61f74e33.chunk.js",
+    "static/media/ecom.jpg": "/static/media/ecom.b2eac6ec78492a60054f.jpg",
+    "static/media/email-marketing.png": "/static/media/email-marketing.08332fa47caef14832af.png",
+    "static/media/contentwriting.jpg": "/static/media/contentwriting.ac3aa0f5224bab5ada4c.jpg",
+    "static/media/img1.svg": "/static/media/img1.e8d86b3ae436f902c6cf3acdd8ffe51b.svg",
+    "static/media/imgs4.svg": "/static/media/imgs4.f02b009562a852b2ce5cd6c70a58e058.svg",
+    "static/media/search.jpeg": "/static/media/search.a315975407f866be501e.jpeg",
+    "static/media/seo.webp": "/static/media/seo.06061b7b5c7c42e6fb5e.webp",
+    "static/media/outsourcing.jpg": "/static/media/outsourcing.8e3d9c3d2da7d552858f.jpg",
+    "static/media/imgs2.png": "/static/media/imgs2.c55410e5fc28ad337254.png",
+    "index.html": "/index.html",
+    "main.d56be0df.css.map": "/static/css/main.d56be0df.css.map",
+    "main.b08523bc.js.map": "/static/js/main.b08523bc.js.map",
+    "787.61f74e33.chunk.js.map": "/static/js/787.61f74e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d56be0df.css",
+    "static/js/main.b08523bc.js"
+  ]
+}
