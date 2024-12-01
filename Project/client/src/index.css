@@ -206,5 +206,6 @@ responsive code */
 }
 .footer {
   display: block;
+  padding-top:8.5rem;
   bottom: 0%;
 }
