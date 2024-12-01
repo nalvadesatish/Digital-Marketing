@@ -205,7 +205,7 @@ responsive code */
   }
 }
 .footer {
-  display: block;
+  display: flex;
   padding-top:8.5rem;
   bottom: 0%;
 }
