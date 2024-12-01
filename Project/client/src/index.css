@@ -204,8 +204,12 @@ responsive code */
     width: 50%;
   }
 }
+.py-5 {
+  margin-top: 10rem;
+}
 .footer {
   display: flex;
   padding-top:8.5rem;
   bottom: 0%;
 }
+
